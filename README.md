@@ -79,5 +79,3 @@ Deep Learning Integration
 # Conclusion
 This project helps businesses identify customers who are likely to leave the service, allowing companies to take proactive steps for customer retention and business growth.
 
-Author
-Sanskriti Gupta
