@@ -1,4 +1,4 @@
-🤖 Customer Churn Prediction
+# Customer Churn Prediction
 
 AI-based Customer Churn Prediction system built using Python and Machine Learning that predicts whether a customer is likely to leave a company based on customer behavior and service usage data.
 
