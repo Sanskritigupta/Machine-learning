@@ -23,7 +23,7 @@ Scikit-learn
 Jupyter Notebook
 
 # Project Structure
-customer-churn-prediction/
+customer-churn-prediction
 
 ├── Customer_Churn_Prediction.ipynb
 ├── README.md
