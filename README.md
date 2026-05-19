@@ -24,14 +24,14 @@ Jupyter Notebook
 
 # Project Structure
 customer-churn-prediction
-
+```
 ├── Customer_Churn_Prediction.ipynb
 ├── README.md
 ├── requirements.txt
 ├── customer_data.csv
 ├── output1.png
 └── output2.png
-
+```
 # Install Dependencies
 pip install -r requirements.txt
 
